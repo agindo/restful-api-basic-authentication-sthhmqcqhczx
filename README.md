@@ -13,4 +13,6 @@ $ DEBUG=restful-api-nlkybjqrtvym:* npm start
 ```
 npm install mysql2
 npm install bcryptjs
+npm install passport
+npm install passport-http
 ```
