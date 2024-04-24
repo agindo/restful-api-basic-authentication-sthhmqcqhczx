@@ -9,3 +9,8 @@ run the app:
 ```
 $ DEBUG=restful-api-nlkybjqrtvym:* npm start
 ```
+## Dependencies
+```
+npm install mysql2
+npm install bcryptjs
+```
