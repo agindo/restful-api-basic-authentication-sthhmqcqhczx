@@ -1,4 +1,5 @@
 var mysql = require('mysql2');
+var utils = require('./utils');
 
 var con = mysql.createConnection({
     host: 'localhost',

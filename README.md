@@ -9,6 +9,20 @@ run the app:
 ```
 $ DEBUG=restful-api-nlkybjqrtvym:* npm start
 ```
+## Usage
+```
+http://localhost:3000/users/register
+http://localhost:3000/profile/:id
+```
+## JSON
+```
+{
+    "username": "username",
+    "password": "password",
+    "email": "mail@email.com",
+    "fullname": "fullname"
+}
+```
 ## Dependencies
 ```
 npm install mysql2
