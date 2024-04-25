@@ -11,8 +11,8 @@ $ DEBUG=restful-api-nlkybjqrtvym:* npm start
 ```
 ## Usage
 ```
-http://localhost:3000/users/register
-http://localhost:3000/profile/:id
+POST | http://localhost:3000/users/register
+GET | http://localhost:3000/profile/:id
 ```
 ## JSON
 ```
